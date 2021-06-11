@@ -1,4 +1,4 @@
-document.getElementById('multiply') .addEventListener('click', calculate)
+document.getElementById('multiply').addEventListener('click', calculate)
 
 let firstNum = 0
 let secondNum = 0
